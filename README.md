@@ -1,11 +1,11 @@
 # power-bi-project
 📊 
 
-Sales Dashboard 2026 | Power BI
+1. Sales Dashboard 2026 | Power BI
 
 – Interactive Sales Analysis using Power BI
 
-2.
+2. short description 
 
 This project is an interactive Sales Dashboard built using Microsoft Power BI to analyze and visualize sales performance across different products, product categories, and time periods.
 
@@ -13,7 +13,7 @@ The dashboard transforms sales data into meaningful visual insights, helping use
 
 The main objective of this project is to demonstrate data visualization, business intelligence, and analytical reporting skills using Power BI.
 
-3. 
+3. tech stack 
 
 - Microsoft Power BI Desktop – Dashboard development and data visualization
 - Data Modeling – Organizing sales data for analysis
